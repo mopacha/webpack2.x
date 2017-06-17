@@ -63,7 +63,7 @@ $ npm install webpack@1.12.x --save-dev
 $ npm info webpack
 ```
 
-###单独安装Webpack 开发工具：
+### 单独安装Webpack 开发工具：
 
 ```
 $ npm install webpack-dev-server --save-dev
