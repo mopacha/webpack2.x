@@ -1,0 +1,11 @@
+@import "./variables.scss";
+
+div {
+  color: $red;
+  height: $height;
+  background: url('../../img/cat.png') no-repeat;
+  font-family: cursive;
+}
+.link{
+	text-decoration: none;
+}

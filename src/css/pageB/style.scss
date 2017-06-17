@@ -1,0 +1,9 @@
+@import "./variables.scss";
+
+h2 {
+  height: $height;
+  background: url('../../img/dog.png') no-repeat;
+}
+.link{
+	text-decoration: none;
+}
